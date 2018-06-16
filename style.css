@@ -2149,7 +2149,9 @@ label.mt10.valid {
 }
 
 .home-three .is-sticky .mainmenu-area {
-    background: #00e2d9;
+    background: #ef494d none repeat scroll 0 0;
+    /*background: #00e2d9;*/
+    /*red color*/
     background-image: -webkit-gradient(linear, right top, left top, from(#81ee8e), color-stop(#2deab6), color-stop(#00e2d9), color-stop(#00d7f2), to(#00c9fd));
     background-image: linear-gradient(to left, #81ee8e, #2deab6, #00e2d9, #00d7f2, #00c9fd);
 
